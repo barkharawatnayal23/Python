@@ -1,0 +1,41 @@
+● Introduction to Matrices in Python
+● Create an application to visualise the matrices in pixel form
+
+Python doesn't have a built-in type for matrices. However, we can treat a list of a list as a matrix. For example: We can treat this list of a list as a matrix having 2 rows and 3 columns
+
+The data stored in the matrix can be strings, numbers, etc.
+In a matrix, data are arranged into rows and columns.
+Matrix is an important data structure for mathematical and scientific calculation.
+
+Matrices
+A Matrix can be 1 dimensional, two dimensional or more than 2 dimensional structure where numbers are arranged in rows and columns.
+
+1D matrix:
+- 1D matrix is basically a single list of numbers.
+
+2D matrix:
+2D matrix is basically represented as rows and columns. We can also say matrix as the list of lists.
+
+Ways in which RGB is used:
+The RGB color model is used in devices to display colors. The RGB color model is best
+suited for illuminated screens, such as TVs, computer displays, laptop displays,
+smartphone and tablet screens.
+Most trendy way is to use the RGB in lightning like in laptops hardware
+Now to display a large range of color on the screen, a large range of rgb colors will be
+required. So to store these large ranges of rgb colors the matrix is used. Matrix helps to store these large ranges of rgb colors in a well structured way.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+We will try to make a visual representation of this ball by using the matrix and matplotlib library of python.
+Link for axis(),hist(), plot()
+
+https://www.bing.com/videos/search?q=matrix+in+python+using+matplot+library&docid=603538644237421211&mid=BDA0D29BA352802F4142BDA0D29BA352802F4142&view=detail&FORM=VIRE
+
+Matplotlib:
+Matplotlib is one of the most popular Python libraries used for data visualization. It is a
+library for making 2D plots from data in a matrix. It is used for creating static, graphs
+animated, interactive visualizations in Python, and matrix and array plotting.
+We will be using matplotlib library of python and concept of matrix plotting for printing a
+pokeball on the screen, like this -
+NOTE-Below image is also present in Teacher-Activity-1
+
+MATLAB is a programming platform that allows matrix manipulations, plotting of
+functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages.
