@@ -1,0 +1,26 @@
+● Introduction to Dictionary
+● Create an application to form a Technical Dictionary
+
+Dictionary :
+A dictionary in python is a collection of key-value pairs. Each key is connected to a value by colon ‘ : ’ while each element is separated by commas ‘ , ’. And by using this key we can access the value associated with that key. Meaning whatever the values the key holds, we can access it by using key only.The key value pair can be unordered and changeable.
+
+"Remember even in javascript localStorage we stored the data in the form of key-value pairs". We learnt this when we built kwitter web app.
+
+For example -
+Dictionary can be used to store data of a person, where you can store as much information as you want like the name, age, location, favourite colour, favorite place and set the key value as the person name.
+
+The python dictionary is written in { } curly brackets, with a series of key value pairs inside the brackets. They are indexed by Keys which means key hold the index value, Like we used the index concept of tuples and lists, here the index becomes the keys.
+
+Syntax 
+dict = { key1:value1,
+key2:value2,
+key3:value3}
+
+
+How to Access values from dictionary :
+To get the value associated with a key, give the name of the dictionary and then place themkey inside the set of square brackets, like this:
+Syntax:
+dictionary_name[key]
+
+Lets have look to the project 
+
